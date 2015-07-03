@@ -3,10 +3,12 @@ Tiny and Useful tools
 
 ##English to Chinese translate
 file:`dict.py`
+
 Translate selected word by http://dict.cn.
 
 ##Search word
 file:`googleWorld.py`
+
 Search the selected word by https://www.google.hk.
 
 #Install:
