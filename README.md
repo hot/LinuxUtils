@@ -9,7 +9,7 @@ Translate selected word by http://dict.cn.
 ##Search word
 file:`googleWord.py`
 
-Search the selected word by https://www.google.hk.
+Search the selected word by https://www.google.com.hk.
 
 #Install:
 
