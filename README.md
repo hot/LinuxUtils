@@ -7,7 +7,7 @@ file:`dict.py`
 Translate selected word by http://dict.cn.
 
 ##Search word
-file:`googleWorld.py`
+file:`googleWord.py`
 
 Search the selected word by https://www.google.hk.
 
