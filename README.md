@@ -1,7 +1,7 @@
 # LinuxUtils
 Tiny and Useful tools
 
-*Install:*
+##Install:
 
 Those tiny tools depends on the 'xsel' command
 ~~~~{bash}
@@ -9,7 +9,7 @@ Those tiny tools depends on the 'xsel' command
 ~~~~
 
 ##Map to them to you favorite shortcut:
-###Example:
+Example:
 * shortcut:	F2
 * command:	python /path/to/repo/dict.py
 
