@@ -17,4 +17,4 @@ Example:
 Translate selected word by http://dict.cn.
 
 ##Search word
-search the selected word by https://www.google.hk.
+Search the selected word by https://www.google.hk.
