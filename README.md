@@ -13,6 +13,9 @@ Search the selected word by https://www.google.com.hk.
 
 #Install:
 
+sudo pacman -S libnotify python-gobject mplayer python-pip
+sudo python -m pip install beautifulsoup4
+
 Those tiny tools depends on the 'xsel' command
 ~~~~{bash}
 	apt-get install xsel
