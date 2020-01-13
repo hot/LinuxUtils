@@ -11,8 +11,7 @@ file:`googleWord.py`
 
 Search the selected word by https://www.google.com.hk.
 
-#Install:
-
+## Install:
 
 ~~~~{bash}
 sudo pacman -S libnotify python-gobject mplayer python-pip
