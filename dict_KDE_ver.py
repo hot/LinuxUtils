@@ -93,6 +93,7 @@ def getSelectedTxt():
         txt = ""
 
     txt = txt.strip(":;,.()!~-+{}[]?/“”\n")
+    txt = txt.replace("-\n", "")
     if len(txt) == 0:
         txt = getFromDialog()
     else:
